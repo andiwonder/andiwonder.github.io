@@ -1,0 +1,18 @@
+.main-product-image {
+  height: auto;
+  @apply rounded;
+}
+
+.thumbnail-image {
+  width: 20%;
+  height: auto;
+  @apply rounded-md;
+}
+
+.thumbnail-container {
+  @apply mt-12;
+}
+
+.mr-128 {
+  margin-right: 32rem;
+}
